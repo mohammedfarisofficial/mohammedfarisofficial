@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedfarisofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedfarisofficial" /> </p>
 
-- 🔭 I’m currently working on [Sociout](https://sociout-three.vercel.app/)
+- 🔭 I’m currently working on [Blinko](https://www.blinko.one/)
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
